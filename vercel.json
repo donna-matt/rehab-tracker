@@ -1,0 +1,7 @@
+{
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://dzapjthijbykwtdrlbzq.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR6YXBqdGhpamJ5a3d0ZHJsYnpxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzAyODE1MTUsImV4cCI6MjA4NTg1NzUxNX0.G6tq6IWK4Fb1lk-N3dgN45AoBWfvcwwAIPtfO-XUmuQ",
+    "SUPABASE_SERVICE_ROLE_KEY": "@supabase_service_role_key"
+  }
+}
