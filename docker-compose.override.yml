@@ -1,0 +1,5 @@
+services:
+  app:
+    environment:
+      - NEXTAUTH_URL=https://rehab.matthias.nl
+      - NEXT_PUBLIC_APP_URL=https://rehab.matthias.nl
